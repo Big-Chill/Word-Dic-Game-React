@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.main-card{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 3%;
+}
+
+.text-div{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 3%;
+}
+
+.card-body{
+  margin-top: -4%;
+}
+
+.point-div{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 3%;
+  font-size: 2rem;
+}
